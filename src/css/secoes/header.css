@@ -37,19 +37,19 @@
     user-select: none;
 }
 
-.header nav ul li a:hover{
-    background-color: var(--cor-primaria);;
+.header nav ul li a:hover {
+    background-color: var(--cor-primaria);
     color: var(--cor-branca);
 }
 
-.header .menu{
+.header .menu {
     display: none;    
     width: 60px;
     height: 60px;        
     align-self: flex-end;
 }
 
-.header nav label{
+.header nav label {
     display: flex;
     flex-direction: column;
     cursor: pointer;
